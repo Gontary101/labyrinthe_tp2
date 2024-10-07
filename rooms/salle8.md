@@ -9,3 +9,5 @@ Vous pouvez aller vers :
 - [La Salle du Destin](salle9.md)
 
 **Objet** : Un pendentif qui semble pulsar avec une énergie mystique.
+
+Salle créé par : **Boutiara Abdelhak**
