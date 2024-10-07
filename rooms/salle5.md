@@ -2,7 +2,7 @@
 
 Une salle finale, où vous devez résoudre une dernière énigme pour ouvrir la porte de sortie. Les murs sont couverts de mécanismes complexes.
 
-![Salle de la Fuite](images/salle_fuite.png)
+![Salle de la Fuite](../images/salle_5.webp)
 
 Vous pouvez aller vers :
 - [Salle 3](salle3.md)
