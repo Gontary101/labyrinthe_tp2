@@ -2,7 +2,7 @@
 
 Des énigmes sont gravées sur les murs, et une table au centre porte un objet ancien. La lumière est plus vive ici, mais l'air est chargé de tension.
 
-![Hall des Secrets](images/hall_secrets.png)
+![Hall des Secrets](../images/salle_2.webp)
 
 Vous pouvez aller vers :
 - [La Chambre de l'Éveil](salle1.md)
@@ -10,5 +10,6 @@ Vous pouvez aller vers :
 - [La Plateforme des Veilleurs](salle4.md)
 
 **Objet** : Un ancien médaillon, qui brille d'une lumière mystérieuse.
+
 
 
