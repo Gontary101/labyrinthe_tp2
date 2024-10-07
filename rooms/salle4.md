@@ -12,5 +12,5 @@ Vous pouvez aller vers :
 - [L'Antre des Monstres](salle3.md)
 - [La Salle de la Fuite](salle5.md)
 
-**Objet** : Une carte du labyrinthe, marquée de passages cachés.
+
 
