@@ -4,6 +4,9 @@ Une pièce haute avec des fenêtres donnant sur le labyrinthe. Des cartes sont a
 
 ![Plateforme des Veilleurs](../images/salle_4.webp)
 
+
+**Objet trouvé** : Une carte du labyrinthe, marquée de passages cachés.
+
 Vous pouvez aller vers :
 - [Le Hall des Secrets](salle2.md)
 - [L'Antre des Monstres](salle3.md)
