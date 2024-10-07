@@ -9,3 +9,5 @@ Vous pouvez aller vers :
 - [Le Sanctuaire des Rêves](salle8.md)
 
 **Objet** : Un miroir ancien qui permet de voir des vérités cachées.
+
+Salle créé par : **Boutiara Abdelhak**
