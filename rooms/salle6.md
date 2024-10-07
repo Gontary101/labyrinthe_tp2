@@ -4,8 +4,12 @@ Une pièce complètement noire, où chaque mouvement résonne. Des murmures s'é
 
 ![Salle de l'Obscurité](images/salle_obscurite.png)
 
+**Objet trouvé** : Un œil en verre qui semble capter la lumière.
+
 Vous pouvez aller vers :
 - [La Salle de la Fuite](salle5.md)
 - [La Chambre des Illusions](salle7.md)
 
-**Objet** : Un œil en verre qui semble capter la lumière.
+Salle créé par : **Boutiara Abdelhak**
+
+
