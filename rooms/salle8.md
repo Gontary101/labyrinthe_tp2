@@ -4,10 +4,11 @@ Une pièce remplie de plumes et de brumes, où des rêves oubliés flottent dans
 
 ![Sanctuaire des Rêves](images/sanctuaire_reves.png)
 
+**Objet trouvé** : Un pendentif qui semble pulsar avec une énergie mystique.
+
 Vous pouvez aller vers :
 - [La Chambre des Illusions](salle7.md)
 - [La Salle du Destin](salle9.md)
 
-**Objet** : Un pendentif qui semble pulsar avec une énergie mystique.
 
 Salle créé par : **Boutiara Abdelhak**
