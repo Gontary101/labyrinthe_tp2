@@ -4,10 +4,12 @@ Une pièce sombre remplie de bruits étranges. Des ombres se déplacent, et vous
 
 ![Antre des Monstres](../images/salle_3.webp)
 
+**Objet trouvé** : Une clé rouillée, qui semble ouvrir un passage secret.
+
 Vous pouvez aller vers :
 - [Le Hall des Secrets](salle2.md)
 - [La Plateforme des Veilleurs](salle4.md)
 - [La Salle de la Fuite](salle5.md)
 
-**Objet** : Une clé rouillée, qui semble ouvrir un passage secret.
+
 
