@@ -1,0 +1,306 @@
+Labyrinthe : Histoire inspirée de Maze Runner
+Salle 1 : La Chambre de l'Éveil
+
+
+# La Chambre de l'Éveil
+
+Vous vous réveillez dans une pièce sombre, éclairée par des lumières clignotantes. Les murs sont en béton brut, et une porte massive vous fait face. Des graffitis sur les murs évoquent des souvenirs oubliés.
+
+![Chambre de l'Éveil](images/chambre_eveil.png)
+
+Vous pouvez aller vers :
+- [Le Hall des Secrets](salle2.md)
+- [L'Antre des Monstres](salle3.md)
+
+**Objet** : Un journal mystérieux qui semble contenir des indices.
+
+**Prompt pour générer l'image** :  
+*“A dark, concrete room with flickering lights, graffiti on the walls, a massive door in front, and an eerie atmosphere.”*
+
+
+
+Salle 2 : Le Hall des Secrets
+
+
+# Le Hall des Secrets
+
+Des énigmes sont gravées sur les murs, et une table au centre porte un objet ancien. La lumière est plus vive ici, mais l'air est chargé de tension.
+
+![Hall des Secrets](images/hall_secrets.png)
+
+Vous pouvez aller vers :
+- [La Chambre de l'Éveil](salle1.md)
+- [L'Antre des Monstres](salle3.md)
+- [La Plateforme des Veilleurs](salle4.md)
+
+**Objet** : Un ancien médaillon, qui brille d'une lumière mystérieuse.
+
+**Prompt pour générer l'image** :  
+*“A bright hall with ancient riddles engraved on the walls, a central table with a glowing medallion, and a tense atmosphere.”*
+
+
+
+
+
+Salle 3 : L'Antre des Monstres
+
+# L'Antre des Monstres
+
+Une pièce sombre remplie de bruits étranges. Des ombres se déplacent, et vous sentez une présence menaçante. Des cages vides indiquent que les créatures étaient autrefois enfermées ici.
+
+![Antre des Monstres](images/antre_monstres.png)
+
+Vous pouvez aller vers :
+- [Le Hall des Secrets](salle2.md)
+- [La Plateforme des Veilleurs](salle4.md)
+- [La Salle de la Fuite](salle5.md)
+
+**Objet** : Une clé rouillée, qui semble ouvrir un passage secret.
+
+**Prompt pour générer l'image** :  
+*“A dark lair filled with strange noises, shadows moving around, and empty cages indicating a past danger.”*
+
+
+
+
+Salle 4 : La Plateforme des Veilleurs
+
+# La Plateforme des Veilleurs
+
+Une pièce haute avec des fenêtres donnant sur le labyrinthe. Des cartes sont accrochées aux murs, et un télescope est posé dans un coin.
+
+![Plateforme des Veilleurs](images/plateforme_veilleurs.png)
+
+Vous pouvez aller vers :
+- [Le Hall des Secrets](salle2.md)
+- [L'Antre des Monstres](salle3.md)
+- [La Salle de la Fuite](salle5.md)
+
+**Objet** : Une carte du labyrinthe, marquée de passages cachés.
+
+**Prompt pour générer l'image** :  
+*“A high room with windows overlooking a vast maze, maps on the walls, and a telescope in the corner.”*
+
+
+
+Salle 5 : La Salle de la Fuite
+
+
+# La Salle de la Fuite
+
+Une salle finale, où vous devez résoudre une dernière énigme pour ouvrir la porte de sortie. Les murs sont couverts de mécanismes complexes.
+
+![Salle de la Fuite](images/salle_fuite.png)
+
+Vous pouvez aller vers :
+- [L'Antre des Monstres](salle3.md)
+- [La Plateforme des Veilleurs](salle4.md)
+- [La Salle de l'Obscurité](salle6.md)
+
+**Objet** : Un cristal brillant, qui pourrait déverrouiller la porte de sortie.
+
+**Prompt pour générer l'image** :  
+*“A final room filled with complex mechanisms on the walls, a bright light emanating from the exit door, and a glowing crystal on a pedestal.”*
+
+
+
+Salle 6 : La Salle de l'Obscurité
+
+
+# La Salle de l'Obscurité
+
+Une pièce complètement noire, où chaque mouvement résonne. Des murmures s'élèvent de l'ombre, et vous avez l'impression d'être observé.
+
+![Salle de l'Obscurité](images/salle_obscurite.png)
+
+Vous pouvez aller vers :
+- [La Salle de la Fuite](salle5.md)
+- [La Chambre des Illusions](salle7.md)
+
+**Objet** : Un œil en verre qui semble capter la lumière.
+
+**Prompt pour générer l'image** :  
+*“A completely dark room where every movement echoes, whispers rising from the shadows, and a feeling of being watched.”*
+Salle 7 : La Chambre des Illusions
+markdown
+Copier le code
+# La Chambre des Illusions
+
+Des miroirs déformants couvrent les murs, créant des reflets trompeurs. Chaque reflet semble montrer une autre version de vous-même.
+
+![Chambre des Illusions](images/chambre_illusions.png)
+
+Vous pouvez aller vers :
+- [La Salle de l'Obscurité](salle6.md)
+- [Le Sanctuaire des Rêves](salle8.md)
+
+**Objet** : Un miroir ancien qui permet de voir des vérités cachées.
+
+**Prompt pour générer l'image** :  
+*“A room covered in distorting mirrors, creating deceptive reflections of yourself and a surreal atmosphere.”*
+Salle 8 : Le Sanctuaire des Rêves
+markdown
+Copier le code
+# Le Sanctuaire des Rêves
+
+Une pièce remplie de plumes et de brumes, où des rêves oubliés flottent dans l'air. Des lumières douces dansent autour de vous.
+
+![Sanctuaire des Rêves](images/sanctuaire_reves.png)
+
+Vous pouvez aller vers :
+- [La Chambre des Illusions](salle7.md)
+- [La Salle du Destin](salle9.md)
+
+**Objet** : Un pendentif qui semble pulsar avec une énergie mystique.
+
+**Prompt pour générer l'image** :  
+*“A room filled with feathers and mist, where forgotten dreams float in the air, illuminated by soft dancing lights.”*
+Salle 9 : La Salle du Destin
+markdown
+Copier le code
+# La Salle du Destin
+
+Une pièce ornée de glyphes anciens. Au centre, un piédestal porte un livre poussiéreux. Les glyphes semblent briller lorsque vous vous en approchez.
+
+![Salle du Destin](images/salle_destin.png)
+
+Vous pouvez aller vers :
+- [Le Sanctuaire des Rêves](salle8.md)
+- [La Salle du Temps](salle10.md)
+
+**Objet** : Un livre ancien qui révèle le passé de ceux qui le lisent.
+
+**Prompt pour générer l'image** :  
+*“A room adorned with ancient glyphs, with a pedestal holding a dusty book at the center, glowing when approached.”*
+Salle 10 : La Salle du Temps
+markdown
+Copier le code
+# La Salle du Temps
+
+Les murs sont tapissés d'horloges aux mouvements étranges. Le temps semble s'écouler différemment ici. Des souvenirs d'événements passés flottent dans l'air.
+
+![Salle du Temps](images/salle_temps.png)
+
+Vous pouvez aller vers :
+- [La Salle du Destin](salle9.md)
+- [La Salle de la Tempête](salle11.md)
+
+**Objet** : Un sablier qui fige le temps pendant quelques instants.
+
+**Prompt pour générer l'image** :  
+*“A room lined with strange clocks, where time flows differently, and memories of past events linger in the air.”*
+Salle 11 : La Salle de la Tempête
+markdown
+Copier le code
+# La Salle de la Tempête
+
+Une salle tourbillonnante, remplie de vents et d'échos de tempête. Les murs vibrent avec la puissance de la nature, et il est difficile de rester debout.
+
+![Salle de la Tempête](images/salle_tempete.png)
+
+Vous pouvez aller vers :
+- [La Salle du Temps](salle10.md)
+- [La Salle des Échos](salle12.md)
+
+**Objet** : Une pierre de tempête qui peut contrôler le vent.
+
+**Prompt pour générer l'image** :  
+*“A swirling room filled with winds and echoes of a storm, with vibrating walls and an overwhelming sense of nature's power.”*
+Salle 12 : La Salle des Échos
+markdown
+Copier le code
+# La Salle des Échos
+
+Les sons se multiplient dans cette pièce. Chaque mot que vous prononcez est amplifié et déformé, créant une symphonie étrange.
+
+![Salle des Échos](images/salle_echos.png)
+
+Vous pouvez aller vers :
+- [La Salle de la Tempête](salle11.md)
+- [Le Labyrinthe des Ombres](salle13.md)
+
+**Objet** : Un sifflet en argent qui crée des illusions sonores.
+
+**Prompt pour générer l'image** :  
+*“A room where sounds multiply, with every word amplified and distorted, creating a strange symphony.”*
+Salle 13 : Le Labyrinthe des Ombres
+markdown
+Copier le code
+# Le Labyrinthe des Ombres
+
+Une pièce labyrinthique où les ombres se déplacent indépendamment de vous. Il est difficile de trouver son chemin dans cette obscurité.
+
+![Labyrinthe des Ombres](images/labyrinthe_ombres.png)
+
+Vous pouvez aller vers :
+- [La Salle des Échos](salle12.md)
+- [La Salle des Portes](salle14.md)
+
+**Objet** : Une clé en forme de silhouette, qui pourrait ouvrir des passages cachés.
+
+**Prompt pour générer l'image** :  
+*“A labyrinthine room where shadows move independently, creating a disorienting atmosphere.”*
+Salle 14 : La Salle des Portes
+markdown
+Copier le code
+# La Salle des Portes
+
+Une salle avec de nombreuses portes, chacune menant à un destin différent. Une inscription sur le mur avertit de faire le bon choix.
+
+![Salle des Portes](images/salle_portes.png)
+
+Vous pouvez aller vers :
+- [Le Labyrinthe des Ombres](salle13.md)
+- [La Salle de la Révélation](salle15.md)
+
+**Objet** : Un ancien compas qui pointe vers la bonne porte.
+
+**Prompt pour générer l'image** :  
+*“A room with many doors, each leading to a different fate, with an inscription warning to choose wisely.”*
+Salle 15 : La Salle de la Révélation
+markdown
+Copier le code
+# La Salle de la Révélation
+
+La dernière salle, où toutes les énigmes et secrets se rassemblent. Un grand miroir montre votre reflet, mais aussi des visions de votre passé.
+
+![Salle de la Révélation](images/salle_revelation.png)
+
+Vous pouvez aller vers :
+- [La Salle des Portes](salle14.md)
+- [La Sortie](index.md)
+
+**Objet** : Un artefact qui révèle la vérité sur votre identité.
+
+**Prompt pour générer l'image** :  
+*“The final room where all enigmas and secrets converge, with a large mirror showing not only your reflection but also visions of your past.”*
+Salle Game Over : L'Abîme
+markdown
+Copier le code
+# L'Abîme (Game Over)
+
+Vous êtes tombé dans l'Abîme, une pièce sombre où vous réalisez que vous avez fait un choix fatal. Les murs sont lisses et froids, et une lumière vacillante illumine votre échec.
+
+![L'Abîme](images/abime.png)
+
+Vous pouvez aller vers :
+- [La Chambre de l'Éveil](index.md)
+
+**Prompt pour générer l'image** :  
+*“A dark abyss where a flickering light illuminates a feeling of failure, with smooth, cold walls surrounding you.”*
+Salle Secrète : La Cachette du Médaillon
+markdown
+Copier le code
+# La Cachette du Médaillon
+
+Une pièce cachée derrière un mur secret, accessible uniquement grâce au médaillon trouvé dans le Hall des Secrets. L'air est lourd de mystère, et un trône ancien trône au centre.
+
+![Cachette du Médaillon](images/cachette_medallion.png)
+
+Vous pouvez aller vers :
+- [La Chambre de l'Éveil](index.md)
+
+**Objet** : Un trésor ancien qui pourrait changer votre destin.
+
+**Prompt pour générer l'image** :  
+*“A hidden room accessed by a secret wall, with an ancient throne at the center, filled with an air of mystery.”*
