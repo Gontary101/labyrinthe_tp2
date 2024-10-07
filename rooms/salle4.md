@@ -2,7 +2,7 @@
 
 Une pièce haute avec des fenêtres donnant sur le labyrinthe. Des cartes sont accrochées aux murs, et un télescope est posé dans un coin.
 
-![Plateforme des Veilleurs](images/salle_4.png)
+![Plateforme des Veilleurs](../images/salle_4.png)
 
 Vous pouvez aller vers :
 - [Le Hall des Secrets](salle2.md)
