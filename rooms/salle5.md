@@ -7,8 +7,8 @@ Une salle finale, où vous devez résoudre une dernière énigme pour ouvrir la 
 **Objet trouvé** : Un cristal brillant, qui pourrait déverrouiller la porte de sortie.
 
 Vous pouvez aller vers :
-- [Salle 3](salle3.md)
-- [Salle 4](salle4.md)
-- [Salle 6](salle6.md)
+- [L'Antre des Monstres](salle3.md)
+- [La Plateforme des Veilleurs](salle4.md)
+- [La Salle de l'Obscurité](salle6.md)
 
 Salle créé par : **Boutiara Abdelhak**
