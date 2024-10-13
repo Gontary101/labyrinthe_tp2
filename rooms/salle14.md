@@ -1,8 +1,12 @@
-# L'Abîme (Game Over)
+# La Salle des Portes
 
-Vous êtes tombé dans l'Abîme, une pièce sombre où vous réalisez que vous avez fait un choix fatal. Les murs sont lisses et froids, et une lumière vacillante illumine votre échec.
+Une salle avec de nombreuses portes, chacune menant à un destin différent. Une inscription sur le mur avertit de faire le bon choix.
 
-![L'Abîme](images/abime.png)
+![Salle des Portes](../images/room_14.jpeg)
+
 
 Vous pouvez aller vers :
-- [La Chambre de l'Éveil](index.md)
+- [Le Labyrinthe des Ombres](salle13.md)
+- [La Salle de la Révélation](salle15.md)
+
+**Objet** : Un ancien compas qui pointe vers la bonne porte.
