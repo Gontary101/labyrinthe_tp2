@@ -2,7 +2,7 @@
 
 Une pièce ornée de glyphes anciens. Au centre, un piédestal porte un livre poussiéreux. Les glyphes semblent briller lorsque vous vous en approchez.
 
-![Salle du Destin](images/salle_destin.png)
+![Salle du Destin](../images/room_9.jpeg)
 
 **Objet trouvé** : Un livre ancien qui révèle le passé de ceux qui le lisent.
 
