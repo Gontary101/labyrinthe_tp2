@@ -2,7 +2,7 @@
 
 Une pièce complètement noire, où chaque mouvement résonne. Des murmures s'élèvent de l'ombre, et vous avez l'impression d'être observé.
 
-![Salle de l'Obscurité](images/salle_obscurite.png)
+![Salle de l'Obscurité](../images/salle_6.webp)
 
 **Objet trouvé** : Un œil en verre qui semble capter la lumière.
 
