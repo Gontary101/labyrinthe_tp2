@@ -2,7 +2,7 @@
 
 Les murs sont tapissés d'horloges aux mouvements étranges. Le temps semble s'écouler différemment ici. Des souvenirs d'événements passés flottent dans l'air.
 
-![Salle du Temps](images/room_10.jpeg)
+![Salle du Temps](../images/room_10.jpeg)
 
 Vous pouvez aller vers :
 - [La Salle du Destin](salle9.md)
