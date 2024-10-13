@@ -2,7 +2,7 @@
 
 Des miroirs déformants couvrent les murs, créant des reflets trompeurs. Chaque reflet semble montrer une autre version de vous-même.
 
-![Chambre des Illusions](../images/chambre_illusions.png)
+![Chambre des Illusions](../images/salle_7.jpeg)
 
 **Objet trouvé** : Un miroir ancien qui permet de voir des vérités cachées.
 
