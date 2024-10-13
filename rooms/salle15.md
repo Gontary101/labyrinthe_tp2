@@ -2,7 +2,7 @@
 
 La dernière salle, où toutes les énigmes et secrets se rassemblent. Un grand miroir montre votre reflet, mais aussi des visions de votre passé.
 
-![Salle de la Révélation](images/room_15.jpeg)
+![Salle de la Révélation](../images/room_15.jpeg)
 
 
 Vous pouvez aller vers :
