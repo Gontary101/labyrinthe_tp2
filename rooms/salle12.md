@@ -2,7 +2,7 @@
 
 Les sons se multiplient dans cette pièce. Chaque mot que vous prononcez est amplifié et déformé, créant une symphonie étrange.
 
-![Salle des Échos](images/salle_echos.png)
+![Salle des Échos](../images/room_12.jpg)
 
 Vous pouvez aller vers :
 - [La Salle de la Tempête](salle11.md)
