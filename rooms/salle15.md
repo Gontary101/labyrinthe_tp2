@@ -1,8 +1,12 @@
-# La Cachette du Médaillon
+# La Salle de la Révélation
 
-Une pièce cachée derrière un mur secret, accessible uniquement grâce au médaillon trouvé dans le Hall des Secrets. L'air est lourd de mystère, et un trône ancien trône au centre.
+La dernière salle, où toutes les énigmes et secrets se rassemblent. Un grand miroir montre votre reflet, mais aussi des visions de votre passé.
 
-![Cachette du Médaillon](images/cachette_medallion.png)
+![Salle de la Révélation](images/room_15.jpeg)
+
 
 Vous pouvez aller vers :
-- [La Chambre de l'Éveil](index.md)
+- [La Salle des Portes](salle14.md)
+- [La Sortie](index.md)
+
+**Objet** : Un artefact qui révèle la vérité sur votre identité.
