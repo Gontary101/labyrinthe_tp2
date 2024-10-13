@@ -2,7 +2,7 @@
 
 Une salle tourbillonnante, remplie de vents et d'échos de tempête. Les murs vibrent avec la puissance de la nature, et il est difficile de rester debout.
 
-![Salle de la Tempête](images/salle_tempete.png)
+![Salle de la Tempête](../images/salle_11.jpeg)
 
 Vous pouvez aller vers :
 - [La Salle du Temps](salle10.md)
