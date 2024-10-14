@@ -8,6 +8,6 @@ Vous pouvez aller vers :
 - [La Salle du Destin](salle9.md)
 - [La Salle de la Tempête](salle11.md)
 
-**Objet** : Un sablier qui fige le temps pendant quelques instants.
+**Objet trouvé** : Un sablier qui fige le temps pendant quelques instants.
 
 Salle créé par : BARRY Amadou
