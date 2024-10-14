@@ -9,3 +9,5 @@ Vous pouvez aller vers :
 - [Le Labyrinthe des Ombres](salle13.md)
 
 **Objet** : Un sifflet en argent qui crée des illusions sonores.
+
+Salle créé par : BARRY Amadou
