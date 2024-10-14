@@ -10,3 +10,5 @@ Vous pouvez aller vers :
 - [La Sortie](index.md)
 
 **Objet** : Un artefact qui révèle la vérité sur votre identité.
+
+Salle créée par NOCHI MAGOUO
