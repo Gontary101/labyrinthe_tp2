@@ -9,3 +9,5 @@ Vous pouvez aller vers :
 - [La Salle des Échos](salle12.md)
 
 **Objet** : Une pierre de tempête qui peut contrôler le vent.
+
+Salle créé par : BARRY Amadou
