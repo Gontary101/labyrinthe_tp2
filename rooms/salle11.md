@@ -8,6 +8,6 @@ Vous pouvez aller vers :
 - [La Salle du Temps](salle10.md)
 - [La Salle des Échos](salle12.md)
 
-**Objet** : Une pierre de tempête qui peut contrôler le vent.
+**Objet trouvé** : Une pierre de tempête qui peut contrôler le vent.
 
 Salle créé par : BARRY Amadou
