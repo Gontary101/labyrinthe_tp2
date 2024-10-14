@@ -10,3 +10,5 @@ Vous pouvez aller vers :
 - [La Salle de la Révélation](salle15.md)
 
 **Objet** : Un ancien compas qui pointe vers la bonne porte.
+
+Salle créée par NOCHI MAGOUO
